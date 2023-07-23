@@ -1,0 +1,67 @@
+/**
+ * @name rahhh
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 359;
+  --accent-saturation: 64%;
+  --accent-brightness: 36%;
+  --background-accent-hue: 200;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 55%;
+  --background-image: url('https://i.imgur.com/cH5UgrN.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: top left;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 76%;
+  --background-overlay-color-lightness: -0.57;
+  --background-hue-shift-strength: 95%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 100%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 26;
+  --window-margin-left: 22;
+  --window-border-radius: 23px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 0;
+  --chat-text-brightness: -0.11;
+  --home-icon: url('https://i.imgur.com/63g6Em8.jpg');
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 0;
+  --sidebar-width: 210px;
+  --members-width: 169px;
+  --sidebar-text-brightness: 0.75;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 0.99;
+  --enable-floating-transparency: 1;
+  --custom-font-display: "";
+  --custom-font-regular: "";
+  --custom-font-primary: "";
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
